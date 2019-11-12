@@ -9,4 +9,4 @@
     - 참여도 : 퍼블리싱 100%
     - 언어 : HTML5, SCSS
     
- - [페이지 바로가기](https://annette-an.github.io/utility/THEGEM)
+ - [페이지 바로가기](https://annette-an.github.io/utility/THEGEM/)
