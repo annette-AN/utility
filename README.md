@@ -3,7 +3,7 @@
   - Visual Studio Code
 <br>
 
-#### TEST
+#### TEST SITE (THEGEM)
     - IE Surpport : IE10+ / Chrome / Firefox / Opera
     - Viewport : 1920x1080, 최소사이즈 1024x768
     - 참여도 : 퍼블리싱 100%
